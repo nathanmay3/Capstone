@@ -2,10 +2,10 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>DHS CINA Capstone</title>
-    <link>https://spooknet.com/</link>
+    <link>https://nathanmay3.github.io/Capstone/</link>
     <description>Recent content on DHS CINA Capstone</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <copyright>Copyright &amp;copy; 2020 Designed by the DHS CINA Team</copyright><atom:link href="https://spooknet.com/index.xml" rel="self" type="application/rss+xml" />
+    <copyright>Copyright &amp;copy; 2020 Designed by the DHS CINA Team</copyright><atom:link href="https://nathanmay3.github.io/Capstone/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>
